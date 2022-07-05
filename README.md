@@ -66,6 +66,8 @@ git push -u origin <nome-da-branch>
 # echo "# git-academy-22" >> README.md
 # git remote add origin https://github.com/CaioTx/git-academy-22.git
 # teste 
+# git add .
+#git pull
 
 
 
