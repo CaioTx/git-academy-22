@@ -10,7 +10,7 @@ git init
 ```bash
 git config --global user.name "username"
 # https://github.com/CaioTx/git-academy-22.git
-git congit --global user.name "user@email.com"
+git config --global user.name "user@email.com"
 # https://github.com/CaioTx/git-academy-22.git
 
 ```
